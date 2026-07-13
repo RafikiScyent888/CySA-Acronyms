@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "acronym": "ACL",
+    "expansion": "Access Control List",
+    "definition": "A set of rules attached to resources specifying who can access what and what actions are allowed."
+  },
+  {
+    "id": 2,
+    "acronym": "API",
+    "expansion": "Application Programming Interface",
+    "definition": "A set of protocols allowing different software applications to communicate securely."
+  },
+  {
+    "id": 3,
+    "acronym": "APT",
+    "expansion": "Advanced Persistent Threat",
+    "definition": "A prolonged targeted cyberattack in which attackers remain undetected for a long period."
+  },
+  {
+    "id": 4,
+    "acronym": "ARP",
+    "expansion": "Address Resolution Protocol",
+    "definition": "A protocol used to map IP addresses to physical MAC addresses in a local network."
+  },
+  {
+    "id": 5,
+    "acronym": "AV",
+    "expansion": "Antivirus",
+    "definition": "Software that detects prevents and removes malicious software from systems."
+  },
+  {
+    "id": 6,
+    "acronym": "ASVS",
+    "expansion": "Application Security Verification Standard",
+    "definition": "A framework for testing and validating the security of web applications."
+  },
+  {
+    "id": 7,
+    "acronym": "ATT&CK",
+    "expansion": "Adversarial Tactics Techniques and Common Knowledge",
+    "definition": "MITRE framework for understanding attacker behaviors and methods"
+  },
+  {
+    "id": 8,
+    "acronym": "BC",
+    "expansion": "Business Continuity",
+    "definition": "Ability to keep critical operations running during/after disruptions."
+  },
+  {
+    "id": 9,
+    "acronym": "BCP",
+    "expansion": "Business Continuity Planning",
+    "definition": "The process of creating systems to recover operations during and after a crisis."
+  },
+  {
+    "id": 10,
+    "acronym": "BEAST",
+    "expansion": "Browser Exploit Against SSL/TLS",
+    "definition": "An attack that exploits weaknesses in older TLS/SSL encryption to help recover sensitive data."
+  },
+  {
+    "id": 11,
+    "acronym": "BGP",
+    "expansion": "Border Gateway Protocol",
+    "definition": "A routing protocol used to exchange routing information between autonomous systems on the internet."
+  },
+  {
+    "id": 12,
+    "acronym": "BIA",
+    "expansion": "Business Impact Analysis",
+    "definition": "A process to predict and evaluate the impact of disruption to business functions."
+  },
+  {
+    "id": 13,
+    "acronym": "BIOS",
+    "expansion": "Basic Input / Output",
+    "definition": "Firmware that initializes hardware and starts the computer boot process."
+  },
+  {
+    "id": 14,
+    "acronym": "BREACH",
+    "expansion": "Browser Reconnaissance & Exfiltration via Adaptive Compression of Hypertext",
+    "definition": "A web attack that uses HTTP compression to extract secret data from encrypted HTTPS responses."
+  },
+  {
+    "id": 15,
+    "acronym": "C2",
+    "expansion": "Command and Control",
+    "definition": "Attacker system used to manage compromised devices."
+  },
+  {
+    "id": 16,
+    "acronym": "CA",
+    "expansion": "Certificate Authority",
+    "definition": "A trusted organization that issues digital certificates to verify identity and enable secure communications."
+  },
+  {
+    "id": 17,
+    "acronym": "CASB",
+    "expansion": "Cloud Access Security Broker",
+    "definition": "A software tool or service that sits between users and cloud services to enforce security policies."
+  },
+  {
+    "id": 18,
+    "acronym": "CBC",
+    "expansion": "Cipher Block Chain",
+    "definition": "A block-cipher mode where each plaintext block is combined with the previous ciphertext block before encryption."
+  },
+  {
+    "id": 19,
+    "acronym": "CDN",
+    "expansion": "Content Delivery Network",
+    "definition": "Distributed system that delivers content quickly and reliably."
+  },
+  {
+    "id": 20,
+    "acronym": "CERT",
+    "expansion": "Computer Emergency Response Team",
+    "definition": "A group that responds to cybersecurity incidents and helps mitigate their effects."
+  },
+  {
+    "id": 21,
+    "acronym": "CHD",
+    "expansion": "Cardholder Data",
+    "definition": "Information tied to credit/debit cardholders."
+  },
+  {
+    "id": 22,
+    "acronym": "CI/CD",
+    "expansion": "Continuous Integration and Continuous Delivery",
+    "definition": "Automating code build, testing, and deployment."
+  },
+  {
+    "id": 23,
+    "acronym": "CIS",
+    "expansion": "Center for Internet Security",
+    "definition": "Creates cybersecurity benchmarks and best practices."
+  },
+  {
+    "id": 24,
+    "acronym": "CMS",
+    "expansion": "Content Management System",
+    "definition": "Software used to create, manage, and publish website content."
+  },
+  {
+    "id": 25,
+    "acronym": "COBIT",
+    "expansion": "Control Objectives for Information and Related Technologies",
+    "definition": "Framework for IT governance and management."
+  },
+  {
+    "id": 26,
+    "acronym": "CPU",
+    "expansion": "Central Processing Unit",
+    "definition": "The main processor that executes instructions and performs calculations for the computer."
+  },
+  {
+    "id": 27,
+    "acronym": "CSF",
+    "expansion": "Cybersecurity Framework",
+    "definition": "A set of best-practice guidelines for managing cybersecurity risk (commonly referring to the NIST Cybersecurity Framework)."
+  },
+  {
+    "id": 28,
+    "acronym": "CSIRT",
+    "expansion": "Cybersecurity Incident Response Team",
+    "definition": "Handles and responds to security incidents."
+  },
+  {
+    "id": 29,
+    "acronym": "CSRF",
+    "expansion": "Cross-site Request Forgery",
+    "definition": "A web attack where users are tricked into performing actions they didn't intend while authenticated."
+  },
+  {
+    "id": 30,
+    "acronym": "CVE",
+    "expansion": "Common Vulnerability Enumeration",
+    "definition": "A standardized identifier for known security vulnerabilities."
+  },
+  {
+    "id": 31,
+    "acronym": "CVSS",
+    "expansion": "Common Vulnerability Scoring System",
+    "definition": "A numerical scoring system to rate the severity of software vulnerabilities."
+  },
+  {
+    "id": 32,
+    "acronym": "DAST",
+    "expansion": "Dynamic Application Security Testing",
+    "definition": "Security testing that scans a running application from the outside to find vulnerabilities."
+  },
+  {
+    "id": 33,
+    "acronym": "DDoS",
+    "expansion": "Distributed Denial of Service",
+    "definition": "A type of attack that overwhelms a service with traffic from multiple sources causing disruption or shutdown."
+  },
+  {
+    "id": 34,
+    "acronym": "DEP",
+    "expansion": "Data Execution Prevention",
+    "definition": "Security feature that blocks code from running in memory regions not designated for execution helping prevent exploits"
+  },
+  {
+    "id": 35,
+    "acronym": "DHCP",
+    "expansion": "Dynamic Host Configuration Protocol",
+    "definition": "Protocol that automatically assigns IP addresses and network settings to devices on a network"
+  },
+  {
+    "id": 36,
+    "acronym": "DKIM",
+    "expansion": "DomainKeys Identified Mail",
+    "definition": "An email authentication method that verifies a sender's domain using a digital signature to prevent spoofing."
+  },
+  {
+    "id": 37,
+    "acronym": "DLL",
+    "expansion": "Dynamic Link Library",
+    "definition": "Shared library of code used by multiple programs in Windows allowing modular and efficient software functionality"
+  },
+  {
+    "id": 38,
+    "acronym": "DLP",
+    "expansion": "Data Loss Prevention",
+    "definition": "Tools and strategies used to prevent unauthorized access transmission or leakage of sensitive information."
+  },
+  {
+    "id": 39,
+    "acronym": "DMARC",
+    "expansion": "Domain Message Authentication Reporting and Conformance",
+    "definition": "An email validation system that uses SPF and DKIM to prevent phishing and provides reporting."
+  },
+  {
+    "id": 40,
+    "acronym": "DNS",
+    "expansion": "Domain Name System",
+    "definition": "A naming system that translates human-readable domain names into IP addresses computers use to identify each other."
+  },
+  {
+    "id": 41,
+    "acronym": "DoH",
+    "expansion": "DNS over HTTPS",
+    "definition": "A method of sending DNS queries over HTTPS to improve privacy and reduce tampering."
+  },
+  {
+    "id": 42,
+    "acronym": "DoS",
+    "expansion": "Denial of Service",
+    "definition": "Attack that aims to shut down a service or system by flooding it with traffic or triggering resource exhaustion"
+  },
+  {
+    "id": 43,
+    "acronym": "DR",
+    "expansion": "Disaster Recovery",
+    "definition": "Restoring IT systems and data after disruptions."
+  },
+  {
+    "id": 44,
+    "acronym": "EDR",
+    "expansion": "Endpoint Detection and Response",
+    "definition": "A security solution that monitors endpoints for malicious activity and provides real-time threat response."
+  },
+  {
+    "id": 45,
+    "acronym": "EOF",
+    "expansion": "End Of File",
+    "definition": "A marker that indicates no more data can be read from a file or data stream."
+  },
+  {
+    "id": 46,
+    "acronym": "FIM",
+    "expansion": "File Integrity Management",
+    "definition": "A process that monitors and detects changes to files helping identify unauthorized modifications or corruption."
+  },
+  {
+    "id": 47,
+    "acronym": "FTK",
+    "expansion": "Forensic Toolkit",
+    "definition": "A digital forensics tool used to acquire, analyze, and report on evidence from computers and storage media."
+  },
+  {
+    "id": 48,
+    "acronym": "FTP",
+    "expansion": "File Transfer Protocol",
+    "definition": "Standard for transferring files between systems."
+  },
+  {
+    "id": 49,
+    "acronym": "GDB",
+    "expansion": "GNU Debugger",
+    "definition": "Tool for analyzing and debugging program behavior."
+  },
+  {
+    "id": 50,
+    "acronym": "GPG",
+    "expansion": "GNU Privacy Guard",
+    "definition": "An encryption/signing tool used to protect data and verify authenticity using public-key cryptography."
+  },
+  {
+    "id": 51,
+    "acronym": "GPO",
+    "expansion": "Group Policy Object",
+    "definition": "A collection of settings in Windows used to control user and computer configurations in an Active Directory environment."
+  },
+  {
+    "id": 52,
+    "acronym": "HIDS",
+    "expansion": "Host-based Intrusion Detection System",
+    "definition": "Software that monitors a single system for suspicious activity or policy violations."
+  },
+  {
+    "id": 53,
+    "acronym": "HIPS",
+    "expansion": "Host-based Intrusion Prevention System",
+    "definition": "Software that detects and actively blocks malicious behavior on an individual host."
+  },
+  {
+    "id": 54,
+    "acronym": "HTML",
+    "expansion": "Hypertext Markup Language",
+    "definition": "Standard language used to create and format content for web pages"
+  },
+  {
+    "id": 55,
+    "acronym": "HTTP",
+    "expansion": "Hypertext Transfer Protocol",
+    "definition": "A protocol used to request and transfer web pages over the internet typically on port 80."
+  },
+  {
+    "id": 56,
+    "acronym": "HTTPD",
+    "expansion": "Hypertext Transfer Protocol Daemon",
+    "definition": "A web server daemon (service) that handles HTTP requests and serves web pages."
+  },
+  {
+    "id": 57,
+    "acronym": "HTTPS",
+    "expansion": "Hypertext Transfer Protocol Secure",
+    "definition": "The encrypted version of HTTP using TLS/SSL to secure web communications."
+  },
+  {
+    "id": 58,
+    "acronym": "IaaS",
+    "expansion": "Infrastructure as a Service",
+    "definition": "Cloud-delivered virtualized computing resources."
+  },
+  {
+    "id": 59,
+    "acronym": "IAM",
+    "expansion": "Identity and Access Management",
+    "definition": "Framework for ensuring the right individuals access the right resources at the right times"
+  },
+  {
+    "id": 60,
+    "acronym": "ICMP",
+    "expansion": "Internet Control Message Protocol",
+    "definition": "A network protocol used for sending error messages and operational information about IP traffic."
+  },
+  {
+    "id": 61,
+    "acronym": "ICS",
+    "expansion": "Industrial Control Systems",
+    "definition": "Networked systems used to monitor and control industrial processes often targeted in critical infrastructure attacks."
+  },
+  {
+    "id": 62,
+    "acronym": "IDOR",
+    "expansion": "Insecure Direct Object Reference",
+    "definition": "Critical access control vulnerability occurring when an application uses user-supplied input to directly access internal objects (e.g., database keys, files) without proper authorization checks. Attackers exploit this by manipulating IDs in URLs or parameters to access or modify unauthorized data"
+  },
+  {
+    "id": 63,
+    "acronym": "IDS",
+    "expansion": "Intrusion Detection System",
+    "definition": "A system that monitors network or system activity for signs of security breaches or malicious behavior."
+  },
+  {
+    "id": 64,
+    "acronym": "IIS",
+    "expansion": "Internet Information Services",
+    "definition": "Microsoft's web server platform used to host websites and web applications."
+  },
+  {
+    "id": 65,
+    "acronym": "IoC",
+    "expansion": "Indicators of Compromise",
+    "definition": "Evidence or artifacts that suggest a system has been breached or is under attack."
+  },
+  {
+    "id": 66,
+    "acronym": "IP",
+    "expansion": "Internet Protocol",
+    "definition": "The primary protocol for sending data across networks assigning addresses and routing packets."
+  },
+  {
+    "id": 67,
+    "acronym": "IPS",
+    "expansion": "Intrusion Prevention System",
+    "definition": "A system that actively monitors and blocks detected threats or unauthorized activity in real- time."
+  },
+  {
+    "id": 68,
+    "acronym": "IR",
+    "expansion": "Incident Response",
+    "definition": "The process of detecting analyzing and responding to security incidents to minimize damage."
+  },
+  {
+    "id": 69,
+    "acronym": "ISO",
+    "expansion": "International Standards Organization",
+    "definition": "An international body that creates standards for technology including information security (e.g. ISO/IEC 27001)."
+  },
+  {
+    "id": 70,
+    "acronym": "ISP",
+    "expansion": "Internet Service Provider",
+    "definition": "Company that provides access to the internet for individuals and organizations"
+  },
+  {
+    "id": 71,
+    "acronym": "IT",
+    "expansion": "Information Technology",
+    "definition": "Use of computers, networks, and systems for data."
+  },
+  {
+    "id": 72,
+    "acronym": "ITIL",
+    "expansion": "Information Technology Infrastructure Library",
+    "definition": "Framework for IT service management best practices."
+  },
+  {
+    "id": 73,
+    "acronym": "JSON",
+    "expansion": "JavaScript Object Notation",
+    "definition": "Lightweight data exchange format."
+  },
+  {
+    "id": 74,
+    "acronym": "KPI",
+    "expansion": "Key Performance Indicator",
+    "definition": "Metric to measure progress toward goals."
+  },
+  {
+    "id": 75,
+    "acronym": "LAN",
+    "expansion": "Local Area Network",
+    "definition": "Network covering a small, local area (e.g., office)."
+  },
+  {
+    "id": 76,
+    "acronym": "LDAPS",
+    "expansion": "Lightweight Directory Access Protocol",
+    "definition": "A protocol used to access and maintain directory information like usernames and credentials."
+  },
+  {
+    "id": 77,
+    "acronym": "LFI",
+    "expansion": "Local File Inclusion",
+    "definition": "Vulnerability allowing execution of local files."
+  },
+  {
+    "id": 78,
+    "acronym": "LOI",
+    "expansion": "Letter of Intent",
+    "definition": "Preliminary agreement document."
+  },
+  {
+    "id": 79,
+    "acronym": "LSASS",
+    "expansion": "Local Security Authority Subsystem Service",
+    "definition": "A Windows process that enforces security policy and handles user authentication and token creation."
+  },
+  {
+    "id": 80,
+    "acronym": "MAC",
+    "expansion": "Media Access Control",
+    "definition": "A unique hardware identifier assigned to network interfaces for communications on the physical network."
+  },
+  {
+    "id": 81,
+    "acronym": "MD5",
+    "expansion": "Message Digest 5",
+    "definition": "Cryptographic hash function used for checksums now considered insecure due to vulnerability to collisions"
+  },
+  {
+    "id": 82,
+    "acronym": "MFA",
+    "expansion": "Multifactor Authentication",
+    "definition": "A security method that requires two or more types of credentials for user authentication."
+  },
+  {
+    "id": 83,
+    "acronym": "MOU",
+    "expansion": "Memorandum of Understanding",
+    "definition": "A non-binding agreement that outlines terms and expectations for collaboration between entities."
+  },
+  {
+    "id": 84,
+    "acronym": "MSF",
+    "expansion": "Metasploit Framework",
+    "definition": "Security tool for penetration testing and exploitation."
+  },
+  {
+    "id": 85,
+    "acronym": "MSP",
+    "expansion": "Managed Service Provider",
+    "definition": "A third-party company that remotely manages a customer's IT infrastructure and end-user systems."
+  },
+  {
+    "id": 86,
+    "acronym": "MSRPC",
+    "expansion": "Microsoft Remote Procedure Call",
+    "definition": "Microsoft's implementation of Remote Procedure Call used for inter-process and network-based service requests."
+  },
+  {
+    "id": 87,
+    "acronym": "MSSP",
+    "expansion": "Managed Security Service Provider",
+    "definition": "A third-party vendor that provides outsourced monitoring and management of security systems."
+  },
+  {
+    "id": 88,
+    "acronym": "MTTD",
+    "expansion": "Mean Time to Detect",
+    "definition": "Average time to discover a security incident."
+  },
+  {
+    "id": 89,
+    "acronym": "NAC",
+    "expansion": "Network Access Control",
+    "definition": "A security solution that enforces policies for device compliance before allowing network access."
+  },
+  {
+    "id": 90,
+    "acronym": "NDA",
+    "expansion": "Non-disclosure Agreement",
+    "definition": "Contract protecting confidential information."
+  },
+  {
+    "id": 91,
+    "acronym": "NGFW",
+    "expansion": "Next-generation Firewall",
+    "definition": "An advanced firewall with features like deep packet inspection intrusion prevention and application awareness."
+  },
+  {
+    "id": 92,
+    "acronym": "NIDS",
+    "expansion": "Network-based Intrusion Detection System",
+    "definition": "A system that monitors network traffic for signs of malicious activity or policy violations."
+  },
+  {
+    "id": 93,
+    "acronym": "NIPS",
+    "expansion": "Network-based Intrusion Prevention System",
+    "definition": "Security system that inspects network traffic and blocks threats in real time"
+  },
+  {
+    "id": 94,
+    "acronym": "NIST",
+    "expansion": "National Institute of Standards & Technology",
+    "definition": "US agency that develops cybersecurity standards and guidelines including the NIST Cybersecurity Framework"
+  },
+  {
+    "id": 95,
+    "acronym": "NTP",
+    "expansion": "Network Time Protocol",
+    "definition": "A protocol used to synchronize clocks between systems over a network critical for accurate logging and security."
+  },
+  {
+    "id": 96,
+    "acronym": "NOC",
+    "expansion": "Network Operations Center",
+    "definition": "A centralized team/location that monitors networks and systems to keep services available and stable."
+  },
+  {
+    "id": 97,
+    "acronym": "OpenVAS",
+    "expansion": "Open Vulnerability Assessment Scanner",
+    "definition": "Standard for security testing."
+  },
+  {
+    "id": 98,
+    "acronym": "OS",
+    "expansion": "Operating System",
+    "definition": "The core software that manages hardware and software resources and provides services for applications."
+  },
+  {
+    "id": 99,
+    "acronym": "OSINT",
+    "expansion": "Open-source Intelligence",
+    "definition": "Publicly available information (like websites or social media) used for investigative or threat intelligence purposes"
+  },
+  {
+    "id": 100,
+    "acronym": "OSSTMM",
+    "expansion": "Open-Source Security Testing Methodology Manual",
+    "definition": "Standard for security testing."
+  },
+  {
+    "id": 101,
+    "acronym": "OSVDB",
+    "expansion": "Open-Source Vulnerability DB",
+    "definition": "A database that catalogs publicly disclosed software vulnerabilities (historically community- driven)."
+  },
+  {
+    "id": 102,
+    "acronym": "OT",
+    "expansion": "Operational Technology",
+    "definition": "Systems used to control industrial equipment like SCADA often found in manufacturing or utilities."
+  },
+  {
+    "id": 103,
+    "acronym": "OUI",
+    "expansion": "Organizationally Unique Identifier",
+    "definition": "A manufacturer identifier used in the first part of a MAC address to identify the vendor."
+  },
+  {
+    "id": 104,
+    "acronym": "OWASP",
+    "expansion": "Open Web Application Security Project",
+    "definition": "Web app security nonprofit and resources."
+  },
+  {
+    "id": 105,
+    "acronym": "PAM",
+    "expansion": "Privileged Access Management",
+    "definition": "Tools and strategies used to monitor and control accounts with elevated access rights to reduce risk."
+  },
+  {
+    "id": 106,
+    "acronym": "PCI DSS",
+    "expansion": "Payment Card Industry Data Security Standard",
+    "definition": "A set of standards ensuring secure handling of credit card information."
+  },
+  {
+    "id": 107,
+    "acronym": "PHP",
+    "expansion": "Hypertext Preprocessor",
+    "definition": "Widely used server-side scripting language."
+  },
+  {
+    "id": 108,
+    "acronym": "PID",
+    "expansion": "Process Identifier",
+    "definition": "Unique number assigned to a running process."
+  },
+  {
+    "id": 109,
+    "acronym": "PII",
+    "expansion": "Personally Identifiable Information",
+    "definition": "Any data that can identify a person such as name SSN or email critical for data privacy."
+  },
+  {
+    "id": 110,
+    "acronym": "PKI",
+    "expansion": "Public Key Infrastructure",
+    "definition": "A framework for managing digital certificates and public-key encryption to support secure communications."
+  },
+  {
+    "id": 111,
+    "acronym": "PLC",
+    "expansion": "Programmable Logic Controller",
+    "definition": "Industrial computer for automation."
+  },
+  {
+    "id": 112,
+    "acronym": "POC",
+    "expansion": "Proof of Concept",
+    "definition": "Demo showing feasibility of an idea or exploit."
+  },
+  {
+    "id": 113,
+    "acronym": "RADIUS",
+    "expansion": "Remote Authentication Dial-in User Service",
+    "definition": "Centralized protocol for authentication authorization and accounting in remote access"
+  },
+  {
+    "id": 114,
+    "acronym": "RCE",
+    "expansion": "Remote Code Execution",
+    "definition": "Vulnerability enabling remote attacker code execution."
+  },
+  {
+    "id": 115,
+    "acronym": "RDP",
+    "expansion": "Remote Desktop Protocol",
+    "definition": "A Microsoft protocol that allows users to remotely access and control a Windows computer."
+  },
+  {
+    "id": 116,
+    "acronym": "REST",
+    "expansion": "Representational State Transfer",
+    "definition": "Web service design style using standard HTTP."
+  },
+  {
+    "id": 117,
+    "acronym": "RFI",
+    "expansion": "Remote File Inclusion",
+    "definition": "Vulnerability letting attackers load remote files."
+  },
+  {
+    "id": 118,
+    "acronym": "RPC",
+    "expansion": "Remote Procedure Call",
+    "definition": "A protocol that lets a program request a service or execute a function on another system remotely."
+  },
+  {
+    "id": 119,
+    "acronym": "RPO",
+    "expansion": "Recovery Point Objective",
+    "definition": "Maximum acceptable amount of data loss measured in time used in disaster recovery planning"
+  },
+  {
+    "id": 120,
+    "acronym": "RSA",
+    "expansion": "Rivest Shamir & Adleman",
+    "definition": "Widely used asymmetric encryption algorithm known for secure data transmission."
+  },
+  {
+    "id": 121,
+    "acronym": "RTO",
+    "expansion": "Recovery Time Objective",
+    "definition": "Target time to restore systems and operations, including data, after a disruption or disaster."
+  },
+  {
+    "id": 122,
+    "acronym": "RXSS",
+    "expansion": "Reflected Cross-site Scripting",
+    "definition": "Injection attack bouncing malicious code to a user."
+  },
+  {
+    "id": 123,
+    "acronym": "SaaS",
+    "expansion": "Software as a Service",
+    "definition": "A cloud computing model where applications are delivered over the internet and maintained by a provider."
+  },
+  {
+    "id": 124,
+    "acronym": "SAML",
+    "expansion": "Security Assertions Markup Language",
+    "definition": "An XML-based standard used for exchanging authentication and authorization data between parties."
+  },
+  {
+    "id": 125,
+    "acronym": "SAMM",
+    "expansion": "Software Assurance Maturity Model",
+    "definition": "A maturity model used to assess and improve an organization's software security practices."
+  },
+  {
+    "id": 126,
+    "acronym": "SASE",
+    "expansion": "Secure Access Service Edge",
+    "definition": "A cloud-delivered architecture that combines networking and security into one service."
+  },
+  {
+    "id": 127,
+    "acronym": "SAST",
+    "expansion": "Static Application Security Testing",
+    "definition": "Security testing that analyzes source code (without running it) to find vulnerabilities."
+  },
+  {
+    "id": 128,
+    "acronym": "SCADA",
+    "expansion": "Supervisory Control and Data Acquisition",
+    "definition": "A control system used for industrial processes like power plants and water treatment."
+  },
+  {
+    "id": 129,
+    "acronym": "SDLC",
+    "expansion": "Software Development Lifecycle",
+    "definition": "A structured process for planning developing testing and deploying software systems."
+  },
+  {
+    "id": 130,
+    "acronym": "SDN",
+    "expansion": "Software-defined Networking",
+    "definition": "An approach that separates the control plane from the data plane for flexible and programmable network management."
+  },
+  {
+    "id": 131,
+    "acronym": "SFTP",
+    "expansion": "Secured File Transfer Protocol",
+    "definition": "A secure version of FTP that uses SSH to encrypt file transfers and protect data in transit."
+  },
+  {
+    "id": 132,
+    "acronym": "SIEM",
+    "expansion": "Security Information and Event Management",
+    "definition": "A centralized solution for collecting analyzing and correlating security data in real time."
+  },
+  {
+    "id": 133,
+    "acronym": "SLA",
+    "expansion": "Service-level Agreement",
+    "definition": "A contract between a service provider and customer that outlines performance availability and responsibilities"
+  },
+  {
+    "id": 134,
+    "acronym": "SLO",
+    "expansion": "Service-level Objective",
+    "definition": "Performance or reliability target for a service."
+  },
+  {
+    "id": 135,
+    "acronym": "SMB",
+    "expansion": "Server Message Block",
+    "definition": "Network protocol for sharing files printers and serial ports between nodes on a network"
+  },
+  {
+    "id": 136,
+    "acronym": "SMS",
+    "expansion": "Short Message Service",
+    "definition": "Text messaging service used in mobile devices sometimes leveraged in security notifications or MFA"
+  },
+  {
+    "id": 137,
+    "acronym": "SMTP",
+    "expansion": "Simple Mail Transfer Protocol",
+    "definition": "Protocol used to send email from clients to servers and between servers"
+  },
+  {
+    "id": 138,
+    "acronym": "SNI",
+    "expansion": "SMS Notification Indicator",
+    "definition": "Protocol used for exchanging structured information in web services using XML"
+  },
+  {
+    "id": 139,
+    "acronym": "SNMP",
+    "expansion": "Simple Network Management Protocol",
+    "definition": "Protocol used to monitor and manage devices on a network such as routers and switches"
+  },
+  {
+    "id": 140,
+    "acronym": "SOAP",
+    "expansion": "Simple Object Access Protocol",
+    "definition": "A protocol for exchanging structured messages between systems, often using XML over HTTP."
+  },
+  {
+    "id": 141,
+    "acronym": "SOAR",
+    "expansion": "Security Orchestration Automation Response",
+    "definition": "A platform that integrates security tools to automate and streamline incident response."
+  },
+  {
+    "id": 142,
+    "acronym": "SOC",
+    "expansion": "Security Operations Center",
+    "definition": "A centralized team and facility that monitors and manages an organization's security posture."
+  },
+  {
+    "id": 143,
+    "acronym": "SPF",
+    "expansion": "Sender Policy Framework",
+    "definition": "An email validation system designed to prevent spoofing by verifying sender IPs."
+  },
+  {
+    "id": 144,
+    "acronym": "SQL",
+    "expansion": "Structured Query Language",
+    "definition": "A standard language used for managing and querying databases."
+  },
+  {
+    "id": 145,
+    "acronym": "SQLi",
+    "expansion": "SQL Injection",
+    "definition": "Type of attack where malicious SQL code is inserted into input fields to access or manipulate a database"
+  },
+  {
+    "id": 146,
+    "acronym": "SSH",
+    "expansion": "Secure Shell",
+    "definition": "Protocol that provides secure remote command-line access and encrypted data communication"
+  },
+  {
+    "id": 147,
+    "acronym": "SSID",
+    "expansion": "Service Set Identifier",
+    "definition": "The broadcast name that identifies a Wi-Fi network."
+  },
+  {
+    "id": 148,
+    "acronym": "SSL",
+    "expansion": "Secure Sockets Layer",
+    "definition": "An older encryption protocol used to secure web communications now deprecated in favor of TLS."
+  },
+  {
+    "id": 149,
+    "acronym": "SSO",
+    "expansion": "Single Sign-on",
+    "definition": "A user authentication process that allows access to multiple systems with one set of credentials."
+  },
+  {
+    "id": 150,
+    "acronym": "SSRF",
+    "expansion": "Server-side Request Forgery",
+    "definition": "Attack tricking a server into making requests."
+  },
+  {
+    "id": 151,
+    "acronym": "STIX",
+    "expansion": "Structured Threat Information eXchange",
+    "definition": "A standardized format for sharing threat intelligence across organizations."
+  },
+  {
+    "id": 152,
+    "acronym": "SWG",
+    "expansion": "Secure Web Gateway",
+    "definition": "A security solution that filters web traffic to prevent access to malicious websites and enforce policy."
+  },
+  {
+    "id": 153,
+    "acronym": "TCP",
+    "expansion": "Transmission Control Protocol",
+    "definition": "Communication protocols that governs how data is transmitted across networks."
+  },
+  {
+    "id": 154,
+    "acronym": "TFTP",
+    "expansion": "Trivial File Transfer Protocol",
+    "definition": "Simple, lightweight file transfer system."
+  },
+  {
+    "id": 155,
+    "acronym": "TLS",
+    "expansion": "Transport Layer Security",
+    "definition": "A cryptographic protocol that ensures privacy and data integrity between applications over a network."
+  },
+  {
+    "id": 156,
+    "acronym": "TRACE",
+    "expansion": "Trade Reporting and Compliance Engine",
+    "definition": "FINRA system for reporting bond trades."
+  },
+  {
+    "id": 157,
+    "acronym": "TTP",
+    "expansion": "Tactics Techniques and Procedures",
+    "definition": "A cybersecurity framework describing how attackers operate and organize their behavior."
+  },
+  {
+    "id": 158,
+    "acronym": "UDP",
+    "expansion": "User Datagram Protocol",
+    "definition": "Connectionless communication protocol used for fast data transmission but with no error correction"
+  },
+  {
+    "id": 159,
+    "acronym": "UEBA",
+    "expansion": "User and Entity Behavior Analytics",
+    "definition": "Security using behavior patterns to detect threats."
+  },
+  {
+    "id": 160,
+    "acronym": "URI",
+    "expansion": "Uniform Resource Identifier",
+    "definition": "A general identifier used to locate or identify resources on the internet including URLs and URNs."
+  },
+  {
+    "id": 161,
+    "acronym": "URL",
+    "expansion": "Universal Resource Locator",
+    "definition": "A specific type of URI that provides the address to access resources on the internet (e.g. https://example.com)."
+  },
+  {
+    "id": 162,
+    "acronym": "USB",
+    "expansion": "Universal Serial Bus",
+    "definition": "A common interface used to connect peripherals to computers; can be a vector for malware if unmanaged."
+  },
+  {
+    "id": 163,
+    "acronym": "UTC",
+    "expansion": "Universal Time Coordinated",
+    "definition": "The primary global time standard used for consistent timekeeping and synchronization."
+  },
+  {
+    "id": 164,
+    "acronym": "VLAN",
+    "expansion": "Virtual Local Area Network",
+    "definition": "A logical grouping of devices on a network segmented by function or department improving security."
+  },
+  {
+    "id": 165,
+    "acronym": "VM",
+    "expansion": "Virtual Machine",
+    "definition": "A software-emulated computer system that runs an OS and apps independently of the physical host system."
+  },
+  {
+    "id": 166,
+    "acronym": "VPN",
+    "expansion": "Virtual Private Network",
+    "definition": "A secure connection over the internet that encrypts data between a user and a private network."
+  },
+  {
+    "id": 167,
+    "acronym": "WAF",
+    "expansion": "Web Application Firewall",
+    "definition": "A security filter that monitors and blocks malicious traffic targeting web applications."
+  },
+  {
+    "id": 168,
+    "acronym": "WAN",
+    "expansion": "Wide Area Network",
+    "definition": "Network spanning a large geographic area."
+  },
+  {
+    "id": 169,
+    "acronym": "XDR",
+    "expansion": "Extended Detection and Response",
+    "definition": "A cybersecurity approach that integrates threat data across endpoints networks and servers for holistic response."
+  },
+  {
+    "id": 170,
+    "acronym": "XML",
+    "expansion": "Extensible Markup Language",
+    "definition": "A flexible format for storing and transporting structured data often used in web and security applications"
+  },
+  {
+    "id": 171,
+    "acronym": "XSS",
+    "expansion": "Cross-site Scripting",
+    "definition": "A web vulnerability where attackers inject malicious scripts into websites viewed by other users."
+  },
+  {
+    "id": 172,
+    "acronym": "XXE",
+    "expansion": "XML External Entity",
+    "definition": "XML parsing flaw that can expose or alter data."
+  },
+  {
+    "id": 173,
+    "acronym": "ZAP",
+    "expansion": "Zed Attack Proxy",
+    "definition": "Open-source web app security testing tool."
+  },
+  {
+    "id": 174,
+    "acronym": "ZTA",
+    "expansion": "Zero Trust Architecture",
+    "definition": "Security approach assumes no implicit trust and requires verification for every access request."
+  },
+  {
+    "id": 175,
+    "acronym": "ZTNA",
+    "expansion": "Zero Trust Network Access",
+    "definition": "Security model requiring verification for every connection."
+  }
+]
