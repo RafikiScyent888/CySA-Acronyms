@@ -476,8 +476,8 @@
   {
     "id": 80,
     "acronym": "MAC",
-    "expansion": "Media Access Control",
-    "definition": "A unique hardware identifier assigned to network interfaces for communications on the physical network."
+    "expansion": "Mandatory Access Control",
+    "definition": "A strict access control model where the operating system or a central authority enforces access permissions based on security labels, clearances, and sensitivity levels."
   },
   {
     "id": 81,
