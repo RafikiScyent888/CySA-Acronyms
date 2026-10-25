@@ -580,7 +580,7 @@ const ACRONYMS = [
     "id": 97,
     "acronym": "OpenVAS",
     "expansion": "Open Vulnerability Assessment Scanner",
-    "definition": "Standard for security testing."
+    "definition": "An open-source vulnerability scanner: it probes hosts and their services for known weaknesses and reports what it finds, rated by severity"
   },
   {
     "id": 98,
