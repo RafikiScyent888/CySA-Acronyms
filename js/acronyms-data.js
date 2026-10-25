@@ -598,7 +598,7 @@ const ACRONYMS = [
     "id": 100,
     "acronym": "OSSTMM",
     "expansion": "Open-Source Security Testing Methodology Manual",
-    "definition": "Standard for security testing."
+    "definition": "A peer-reviewed manual (from ISECOM) for testing operational security: how to test people, physical sites, wireless, telecommunications and data networks, and measure the results"
   },
   {
     "id": 101,
